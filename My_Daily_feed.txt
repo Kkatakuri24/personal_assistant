@@ -1,0 +1,95 @@
+Hi Josh,
+Today is Tue 2020-11-10 05:21
+---Start of Stock report Session--------------------
+The current APPLE stock price is 116.32
+
+The current AMD stock price is 83.12
+
+The current GE stock price is 8.72
+
+-----End of Stock report Session--------------------
+
+-----Start of Job posting Session--------------------
+
+Junior Software Engineer
+new
+PhotoSat Informaiton LtdVancouver, BC
+The work will include database, web development, cloud computing, cluster and satellite image processing.
+Proficient in object oriented languages (c# preferred)…
+<==========End of one job==========>
+Software Engineer - API Gateway
+new
+KubeData Systems IncVancouver, BC•Remote
+KubeData Systems Inc has been consulting in the Enterprise IT and IoT space for 6 years.
+The gateway will transform data using either Javascript, Python, Golang…
+<==========End of one job==========>
+Backend Engineer (C#)
+GluwaVancouver, BC
+Proficiency in software engineering tools.
+Ability to develop software in C# (ASP.NET Core).
+Develop software solutions by studying information needs;…
+<==========End of one job==========>
+Software Engineer, Frontend
+Subskribe, Inc.Vancouver, BC•Remote
+You will work on projects that span technologies, systems, and processes where you will design, test, and ship great code every day.
+<==========End of one job==========>
+Senior Software Engineer
+new
+Orderbot Software Inc.Vancouver, BC•Temporarily remote
+At Orderbot Software Inc, we are looking for a full-time senior software engineer or computer scientist with strong analytical and problem-solving skills.
+<==========End of one job==========>
+Software QA Tester
+new
+Greenline POSVancouver, BC•Remote
+Passionate about high quality software delivery.
+2+ years of professional software QA experience.
+A resume demonstrating 2+ years of professional software QA…
+<==========End of one job==========>
+Senior Software Engineer (Back End)
+Playgon InteractiveVancouver, BC•Temporarily remote
+Lead and mentor other software engineers.
+8+ years experience as a software engineer.
+The live dealer gaming content will be streamed as to licensees’ players…
+<==========End of one job==========>
+Software Engineers (junior and senior)
+AutozenVancouver, BC•Remote
+Autozen software engineers will be involved in the end-to-end process of planning, building, deploying, and maintaining Autozen software: iOS, Android, and…
+<==========End of one job==========>
+Senior Front End Software Engineer
+Playgon InteractiveVancouver, BC•Temporarily remote
+8+ years experience as a software engineer.
+Lead and mentor other front end software engineers.
+The live dealer gaming content will be streamed as to licensees’…
+<==========End of one job==========>
+Intermediate Unity Software Engineer
+Navigator Games Ltd.Vancouver, BC•Temporarily remote
+Bachelor’s degree in computer science, computer systems, software engineering or mathematics.
+Software development: 3 years (Preferred).
+<==========End of one job==========>
+Senior Software Engineer
+new
+HuamiVancouver, BC
+Mentor and lead junior engineers, performing code reviews and delivering meaningful feedback.
+Our health software uses wearable technology to turn data insights…
+<==========End of one job==========>
+Blockchain Software Engineer (Rust)
+GluwaVancouver, BC•Remote
+Proficiency in software engineering tools.
+Develops software solutions by studying information needs; conferring with users; studying systems flow, data usage,…
+<==========End of one job==========>
+Customer Support
+new
+Greenline POSVancouver, BC•Remote
+Experienced with complex cloud-based software products.
+We develop software to help cannabis retailers sell cannabis and stay compliant with the government.
+<==========End of one job==========>
+Software Engineer II
+new
+Microsoft4.2Vancouver, BC
+Industry experience in full stack software development, data processing and/or backend services.
+You will have opportunities to work on multiple layers of the…
+<==========End of one job==========>
+Software Engineer in Test
+realtor.com3.4Vancouver, BC
+Ability to pick up engineering tasks designing, developing, and maintaining product features, at a similar capability to an equivalently levelled software…
+<==========End of one job==========>
