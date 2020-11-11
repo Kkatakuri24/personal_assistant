@@ -1,95 +1,110 @@
-Hi Josh,
-Today is Tue 2020-11-10 05:21
----Start of Stock report Session--------------------
-The current APPLE stock price is 116.32
-
-The current AMD stock price is 83.12
-
-The current GE stock price is 8.72
-
+Hi Josh,
+Today is Tue 2020-11-10 18:24
+---Start of Stock report Session--------------------
+The current APPLE stock price is 116.00
+
+The current AMD stock price is 77.99
+
+The current GE stock price is 8.98
+
 -----End of Stock report Session--------------------
-
+
 -----Start of Job posting Session--------------------
-
-Junior Software Engineer
-new
-PhotoSat Informaiton LtdVancouver, BC
-The work will include database, web development, cloud computing, cluster and satellite image processing.
-Proficient in object oriented languages (c# preferred)…
-<==========End of one job==========>
+
+Software Engineers (junior and senior)
+AutozenVancouver, BCâ€¢Remote
+Autozen software engineers will be involved in the end-to-end process of planning, building, deploying, and maintaining Autozen software: iOS, Android, andâ€¦
+
+<==========End of one job==========>
 Software Engineer - API Gateway
-new
-KubeData Systems IncVancouver, BC•Remote
+new
+KubeData Systems IncVancouver, BCâ€¢Remote
 KubeData Systems Inc has been consulting in the Enterprise IT and IoT space for 6 years.
-The gateway will transform data using either Javascript, Python, Golang…
-<==========End of one job==========>
-Backend Engineer (C#)
-GluwaVancouver, BC
+The gateway will transform data using either Javascript, Python, Golangâ€¦
+
+<==========End of one job==========>
+Blockchain Software Engineer (Rust)
+GluwaVancouver, BCâ€¢Remote
 Proficiency in software engineering tools.
-Ability to develop software in C# (ASP.NET Core).
-Develop software solutions by studying information needs;…
-<==========End of one job==========>
-Software Engineer, Frontend
-Subskribe, Inc.Vancouver, BC•Remote
-You will work on projects that span technologies, systems, and processes where you will design, test, and ship great code every day.
-<==========End of one job==========>
+Develops software solutions by studying information needs; conferring with users; studying systems flow, data usage,â€¦
+
+<==========End of one job==========>
+Intermediate Unity Software Engineer
+Navigator Games Ltd.Vancouver, BCâ€¢Temporarily remote
+Bachelorâ€™s degree in computer science, computer systems, software engineering or mathematics.
+Software development: 3 years (Preferred).
+
+<==========End of one job==========>
 Senior Software Engineer
-new
-Orderbot Software Inc.Vancouver, BC•Temporarily remote
-At Orderbot Software Inc, we are looking for a full-time senior software engineer or computer scientist with strong analytical and problem-solving skills.
-<==========End of one job==========>
+new
+Orderbot Software Inc.Vancouver, BCâ€¢Temporarily remote
+At Orderbot Software Inc, we are looking for a full-time senior software engineer or computer scientist with strong analytical and problem-solving skills.
+
+<==========End of one job==========>
+Senior Software Engineer
+new
+HuamiVancouver, BC
+Mentor and lead junior engineers, performing code reviews and delivering meaningful feedback.
+Our health software uses wearable technology to turn data insightsâ€¦
+
+<==========End of one job==========>
+Software Engineer II
+new
+Microsoft4.2Vancouver, BC
+Industry experience in full stack software development, data processing and/or backend services.
+You will have opportunities to work on multiple layers of theâ€¦
+
+<==========End of one job==========>
+Machine Learning Engineer
+new
+LivNaoVancouver, BCâ€¢Remote
+Open-minded & fast-thinking software engineer familiar with agile development methods.
+LivNao is bridging the gap between precision medicine & preventive careâ€¦
+
+<==========End of one job==========>
+Senior Software Engineer (Full-Stack) - SMB
+Indeed4.3Vancouver, BC
+Experience in building complex, highly scalable software systems.
+Experience in front-end engineering, including experience working on at least one publicâ€¦
+
+<==========End of one job==========>
+Software Engineer - Aparicio-1
+new
+University of British Columbia4.2University of British Columbia (Vancouver campus), BC
+Experience with Agile software practices.
+May help to supervise undergraduate trainees and/or junior software developers.
+$4,597 - $6,622 CAD Monthly.
+
+<==========End of one job==========>
+Junior Software Engineer
+new
+PhotoSat Informaiton LtdVancouver, BC
+The work will include database, web development, cloud computing, cluster and satellite image processing.
+Proficient in object oriented languages (c# preferred)â€¦
+
+<==========End of one job==========>
+Software Engineer in Test
+realtor.com3.4Vancouver, BC
+Ability to pick up engineering tasks designing, developing, and maintaining product features, at a similar capability to an equivalently levelled softwareâ€¦
+
+<==========End of one job==========>
 Software QA Tester
-new
-Greenline POSVancouver, BC•Remote
+new
+Greenline POSVancouver, BCâ€¢Remote
 Passionate about high quality software delivery.
 2+ years of professional software QA experience.
-A resume demonstrating 2+ years of professional software QA…
-<==========End of one job==========>
-Senior Software Engineer (Back End)
-Playgon InteractiveVancouver, BC•Temporarily remote
-Lead and mentor other software engineers.
-8+ years experience as a software engineer.
-The live dealer gaming content will be streamed as to licensees’ players…
-<==========End of one job==========>
-Software Engineers (junior and senior)
-AutozenVancouver, BC•Remote
-Autozen software engineers will be involved in the end-to-end process of planning, building, deploying, and maintaining Autozen software: iOS, Android, and…
-<==========End of one job==========>
-Senior Front End Software Engineer
-Playgon InteractiveVancouver, BC•Temporarily remote
-8+ years experience as a software engineer.
-Lead and mentor other front end software engineers.
-The live dealer gaming content will be streamed as to licensees’…
-<==========End of one job==========>
-Intermediate Unity Software Engineer
-Navigator Games Ltd.Vancouver, BC•Temporarily remote
-Bachelor’s degree in computer science, computer systems, software engineering or mathematics.
-Software development: 3 years (Preferred).
-<==========End of one job==========>
-Senior Software Engineer
-new
-HuamiVancouver, BC
-Mentor and lead junior engineers, performing code reviews and delivering meaningful feedback.
-Our health software uses wearable technology to turn data insights…
-<==========End of one job==========>
-Blockchain Software Engineer (Rust)
-GluwaVancouver, BC•Remote
-Proficiency in software engineering tools.
-Develops software solutions by studying information needs; conferring with users; studying systems flow, data usage,…
-<==========End of one job==========>
-Customer Support
-new
-Greenline POSVancouver, BC•Remote
-Experienced with complex cloud-based software products.
-We develop software to help cannabis retailers sell cannabis and stay compliant with the government.
-<==========End of one job==========>
-Software Engineer II
-new
-Microsoft4.2Vancouver, BC
-Industry experience in full stack software development, data processing and/or backend services.
-You will have opportunities to work on multiple layers of the…
-<==========End of one job==========>
-Software Engineer in Test
-realtor.com3.4Vancouver, BC
-Ability to pick up engineering tasks designing, developing, and maintaining product features, at a similar capability to an equivalently levelled software…
-<==========End of one job==========>
+A resume demonstrating 2+ years of professional software QAâ€¦
+
+<==========End of one job==========>
+Software Engineer, Frontend
+Subskribe, Inc.Vancouver, BCâ€¢Remote
+You will work on projects that span technologies, systems, and processes where you will design, test, and ship great code every day.
+
+<==========End of one job==========>
+Software Engineer
+Rack Attack LPVancouver, BC
+Experience with Git or other version control software.
+Familiar with QuickBooks or accounting software in general.
+Bachelorâ€™s Degree in Computer Science.
+
+<==========End of one job==========>
